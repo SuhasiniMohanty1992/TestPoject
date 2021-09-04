@@ -9,7 +9,7 @@ public class Welcome_Java {
 		int a=10;
 		int b=10;
 		
-		 int Sum=a +b;
+		 int Mul=a * b;
 		 
 		 System.out.println(Sum);
 	}
