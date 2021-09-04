@@ -12,5 +12,7 @@ public class Welcome_Java {
 		 int Mul=a * b;
 		 
 		 System.out.println(Sum);
+		 
+		 //Synchronized with Master
 	}
 }
