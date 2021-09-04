@@ -7,7 +7,7 @@ public class Welcome_Java {
 		System.out.println("Welcome To Python");
 		
 		int a=10;
-		int b=10;
+		int b=12;
 		
 		 int Mul=a * b;
 		 
